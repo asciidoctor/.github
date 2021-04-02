@@ -5,3 +5,7 @@ This repository contains the default https://docs.github.com/en/github/building-
 == Community participation
 
 Learn how to engage with and participate in the Asciidoctor community on the https://docs.asciidoctor.org/about/[community page].
+
+=== Code of conduct
+
+Participation in the Asciidoctor community is governed by the link:CODE-OF-CONDUCT.md[Asciidoctor Code of Conduct].
