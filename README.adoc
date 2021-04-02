@@ -1,0 +1,7 @@
+= Asciidoctor community health-check files
+
+This repository contains the default https://docs.github.com/en/github/building-a-strong-community/creating-a-default-community-health-file#supported-file-types[health-check files] for all repositories in the https://github.com/asciidoctor[Asciidoctor organization] on GitHub.
+
+== Community participation
+
+Learn how to engage with and participate in the Asciidoctor community on the https://docs.asciidoctor.org/about/[community page].
