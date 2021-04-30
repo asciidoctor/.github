@@ -1,5 +1,6 @@
 # gem 'rubocop', '~> 1.13.0'
-#require: rubocop-rspec
+# gem 'rubocop-rspec', '~> 2.3.0'
+require: rubocop-rspec
 AllCops:
   TargetRubyVersion: 2.5
 Gemspec/DateAssignment:
